@@ -1,0 +1,17 @@
+Name = "kongger"
+Owner = "stakagi"
+Version = "0.1.0"
+Description = ""
+Framework = "mitchellh_cli"
+
+[[Commands]]
+  Name = "plan"
+  FunctionName = "plan"
+  Synopsis = ""
+  Help = ""
+
+[[Commands]]
+  Name = "apply"
+  FunctionName = "apply"
+  Synopsis = ""
+  Help = ""
